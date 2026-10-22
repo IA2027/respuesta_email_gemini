@@ -1,0 +1,18 @@
+ROL: Actúa como un Director de Operaciones y Logística experto en comunicación asertiva y resolución de crisis comerciales.
+
+
+TAREA: Redacta el correo electrónico de respuesta para el email de Carlos Vega que tienes arriba.
+
+CONTEXTO: 
+- Trabajamos en "integralLogistic", una empresa de distribución mayorista. 
+- El retraso del camión fue real y se debió a un bloqueo por una huelga imprevista en el centro de distribución principal, pero la mercancía ya está en ruta.
+- La solución es que el palet llegará mañana martes antes de las 10:00 AM de forma garantizada (tres días antes de que arranquen sus rebajas del viernes).
+- Como compensación por el susto y la falta de comunicación telefónica, les abonaremos el 100% de los costes de este envío (el transporte les sale gratis).
+
+RESTRICCIONES Y FORMATO:
+- El tono debe ser corporativo, transparente, muy educado, empático pero con seguridad y control de la situación.
+- Máximo 3 párrafos cortos.
+- Evita justificaciones corporativas que suenen a excusa barata como "son cosas que pasan", "la culpa es de los transportistas" o el típico "lamentamos las molestias". Asume la responsabilidad.
+- Formato de salida: Texto limpio listo para enviar, 
+-nombre : integralLogistic 
+-Cargo: Director de Logistica 
